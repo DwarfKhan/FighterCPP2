@@ -12,6 +12,7 @@ class FIGHTERCPP2_API AFighter : public ACharacter
 	GENERATED_BODY()
 
 public:
+	// this is a change
 	// Sets default values for this character's properties
 	AFighter();
 
